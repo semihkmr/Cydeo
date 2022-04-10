@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CydeO/CydeO.iml" filepath="$PROJECT_DIR$/CydeO/CydeO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cydeo.iml" filepath="$PROJECT_DIR$/Cydeo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Group29/Group29.iml" filepath="$PROJECT_DIR$/Group29/Group29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Replit/Replit.iml" filepath="$PROJECT_DIR$/Replit/Replit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/Tasks.iml" filepath="$PROJECT_DIR$/Tasks/Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/codingBot/codingBot.iml" filepath="$PROJECT_DIR$/codingBot/codingBot.iml" />
+    </modules>
+  </component>
+</project>
