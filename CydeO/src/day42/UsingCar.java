@@ -4,7 +4,12 @@ public class UsingCar {
 
     public static void main(String[] args) {
 
-        Car car1 = new Car();
+        Car car1 = new Car() {
+            @Override
+            public void start() {
+
+            }
+        };
         car1.model = "Mercedes";
         car1.year = 2020;
         car1.color = "Black";

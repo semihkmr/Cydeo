@@ -4,8 +4,12 @@ public class UsingThis {
 
     public static void main(String[] args) {
 
-        ThisKeyword onj = new ThisKeyword(300);
+        ThisKeyword obj = new ThisKeyword(300);
 
-        System.out.println(onj.a);
+       System.out.println(obj.a);
+
+
+
+
     }
 }

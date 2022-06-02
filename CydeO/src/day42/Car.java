@@ -1,6 +1,6 @@
 package day42;
 
-public class Car {
+public abstract class Car {
 
     String model;
     int year;
@@ -28,4 +28,5 @@ public class Car {
         return fuel_level < 25;
     }
 
+    public abstract void start();
 }

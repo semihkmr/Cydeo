@@ -1,7 +1,5 @@
 package day42;
 
-import day14.age;
-
 public class AllPeople {
 
     public static void main(String[] args) {

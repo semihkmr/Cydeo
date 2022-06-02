@@ -9,8 +9,8 @@ public class ThisKeyword {
         a = 400 ;
         System.out.println(a);
 
-        this.a = 600;
+       this.a = 600;
 
-        System.out.println(a);
+
     }
 }
